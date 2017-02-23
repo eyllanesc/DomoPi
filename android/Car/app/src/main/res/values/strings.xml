@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Car</string>
+    <string name="Forward">Avanzar</string>
+    <string name="Backward">Retroceder</string>
+    <string name="Left">Izquierda</string>
+    <string name="Right">Derecha</string>
+    <string name="Stop">Parar</string>
+</resources>
